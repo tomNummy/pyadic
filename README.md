@@ -1,0 +1,2 @@
+# pyadic
+Analyze chat transcripts
