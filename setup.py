@@ -8,6 +8,6 @@ setup(
     url="https://github.com/tomNummy/pyadic",
     version="0.1.0",
     packages=find_packages(),
-    install_requires=["networkx", "click", "pydantic", "bokeh"],
+    install_requires=["networkx", "click", "pydantic", "bokeh", "lark-parser"],
     license="MIT License",
 )
