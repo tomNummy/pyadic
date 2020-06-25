@@ -1,6 +1,6 @@
 import datetime
 
-import models
+import pyadic.models as models
 from lark import Lark, Transformer
 
 grammar = """
